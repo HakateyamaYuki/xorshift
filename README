@@ -1,1 +1,3 @@
-simple implementation of pseudo random algorithms based on xor
+Simple implementation of pseudo random algorithms based on
+xor bitwise operation.
+As of now includes xoroshiro 256 and marsaglia's algorithms.
