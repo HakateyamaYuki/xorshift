@@ -1,8 +1,8 @@
 [package]
 name = "xorshift"
 version = "0.1.0"
-authors = ["HakateyamaYuki <hakateyama.yuki@gmail.com>"]
+authors = ["HakateyamaYuki"]
 edition = "2018"
-license = "0BSD"
+license = "MIT"
 
 [dependencies]
